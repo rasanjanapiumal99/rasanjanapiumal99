@@ -78,11 +78,7 @@ I’m always open to discussing new opportunities, collaborations, or just chatt
 
 ---
 
-### 🎧 **Currently Listening To**
 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/your_spotify_id)
-
----
 
 ### 💡 **Fun Fact**
 
