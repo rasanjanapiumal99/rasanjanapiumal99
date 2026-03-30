@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello,%20I'm%20Rasanjana%20Piumal%20👋&fontSize=50&animation=twinkling&fontAlignY=35" width="100%" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&height=30&size=28&pause=1000&color=EE5396&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" width="100%" />
 </p>
-**Full Stack Web Developer | Tech Enthusiast | Problem Solver**  
 🌴 Based in the stunning island nation of Sri Lanka 🇱🇰  
 
 ---
