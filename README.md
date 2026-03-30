@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello,%20I'm%20Rasanjana%20Piumal&fontSize=50](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello,%20I'm%20Rasanjana%20Piumal%20👋&fontSize=40&animation=twinkling)
 # Hello, I'm Rasanjana Piumal 👋
 
 **Full Stack Web Developer | Tech Enthusiast | Problem Solver**  
@@ -54,8 +55,7 @@ When I’m not coding, you’ll find me exploring the natural beauty of Sri Lank
 ### 📈 **GitHub Stats**
 ![Rasanjana's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=rasanjanapiumal99&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rasanjanapiumal99&layout=compact&theme=radical)
-![Rasanjana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasanjanapiumal99&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasanjanapiumal99&layout=compact&theme=radical)
+
 
 ---
 
