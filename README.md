@@ -52,7 +52,7 @@ When I’m not coding, you’ll find me exploring the natural beauty of Sri Lank
 ---
 
 ### 📈 **GitHub Stats**
-
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rasanjanapiumal99&layout=compact&theme=radical)
 ![Rasanjana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasanjanapiumal99&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasanjanapiumal99&layout=compact&theme=radical)
 
