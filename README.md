@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello,%20I'm%20Rasanjana%20Piumal&fontSize=50](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello,%20I'm%20Rasanjana%20Piumal%20👋&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello,%20I'm%20Rasanjana%20Piumal%20👋&fontSize=40&animation=twinkling)
 # Hello, I'm Rasanjana Piumal 👋
 
 **Full Stack Web Developer | Tech Enthusiast | Problem Solver**  
