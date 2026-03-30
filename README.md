@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello,%20I'm%20Rasanjana%20Piumal%20👋&fontSize=40&animation=twinkling)
-# Hello, I'm Rasanjana Piumal 👋
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello,%20I'm%20Rasanjana%20Piumal%20👋&fontSize=50&animation=twinkling&fontAlignY=35" width="100%" />
+</p>
 **Full Stack Web Developer | Tech Enthusiast | Problem Solver**  
 🌴 Based in the stunning island nation of Sri Lanka 🇱🇰  
 
