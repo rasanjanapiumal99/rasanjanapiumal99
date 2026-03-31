@@ -59,28 +59,74 @@ When I’m not coding, you’ll find me exploring the natural beauty of Sri Lank
 
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=8a63d2&text=🌟%20What%20I%20Bring%20to%20the%20Table&fontSize=35&fontAlign=50&fontAlignY=50&animation=fadeIn" width="100%" />
+</p>
 
-### 🌟 **What I Bring to the Table**
+<br />
 
-- **Problem Solving**: A logical and analytical approach to tackling challenges.  
-- **Attention to Detail**: Crafting pixel-perfect designs and clean, maintainable code.  
-- **Collaboration**: Strong communication skills and a team-first mindset.  
-- **Innovation**: Always exploring new technologies and methodologies to stay ahead.  
+<p align="center">
+  <img src="https://img.shields.io/badge/Problem_Solving-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Attention_to_Detail-000000?style=for-the-badge&logo=artstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Collaboration-000000?style=for-the-badge&logo=groups&logoColor=white" />
+  <img src="https://img.shields.io/badge/Innovation-000000?style=for-the-badge&logo=lightbulb&logoColor=white" />
+</p>
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Problem Solving</h3>
+      <p>A logical and analytical approach to tackling complex architectural challenges and debugging high-stakes applications.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 Attention to Detail</h3>
+      <p>Crafting <b>pixel-perfect</b> designs and clean, maintainable code that adheres to modern industry standards.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤝 Collaboration</h3>
+      <p>Strong communication skills and a team-first mindset developed through leading the <b>Skymansion</b> collective.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 Innovation</h3>
+      <p>Always exploring new technologies like <b>AI-driven bots</b> and automation to stay ahead of the curve.</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=8A63D2&center=true&vCenter=true&width=600&lines=Quality+Over+Quantity;Clean+Code+%3D+Happy+Developers;Turning+Coffee+into+Code" alt="Typing SVG" width="100%" />
+</p>
 
 ---
 
-### 📫 **Let’s Connect**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8a63d2&text=📫%20Let's%20Connect&fontSize=40&animation=twinkling" width="100%" />
+</p>
 
-I’m always open to discussing new opportunities, collaborations, or just chatting about tech. Feel free to reach out!  
+<p align="center">
+  I’m always open to discussing new opportunities, collaborations, or just chatting about tech. Feel free to reach out!
+</p>
 
-- **Email**: [rasanjanapiumal@gmail.com](mailto:rasanjanapiumal@gmail.com)  
-- **Phone**: +94 767 745 809  
-- **LinkedIn**: [Rasanjana Piumal](https://www.linkedin.com/in/rasanjana-piumal-29b358128)  
-- **GitHub**: [RasanjanaPiumal](https://github.com/rasanjanapiumal99)  
+<p align="center">
+  <a href="mailto:rasanjanapiumal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/94767745809?text=Hi%20Rasanjana,%20I%20saw%20your%20GitHub%20profile!">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://www.linkedin.com/in/rasanjana-piumal-29b358128">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/rasanjanapiumal99">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
----
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=8A63D2&center=true&vCenter=true&width=435&lines=Available+for+Freelance;Let's+build+something+great!;Response+time:+Under+24h" alt="Typing SVG" />
+</p>
 
 ### 💡 **Fun Fact**
 
