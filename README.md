@@ -1,64 +1,72 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello,%20I'm%20Rasanjana%20Piumal%20👋&fontSize=50&animation=twinkling&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=8a63d2&text=Hello,%20I'm%20Rasanjana%20Piumal%20👋&fontSize=50&animation=twinkling&fontAlignY=35" width="100%" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&height=30&size=28&pause=1000&color=EE5396&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" width="100%" />
 </p>
-🌴 Based in the stunning island nation of Sri Lanka 🇱🇰  
-
----
 
 ### 👨‍💻 **About Me**
 
-I’m a passionate and results-driven **Full Stack Web Developer** with a knack for crafting elegant, scalable, and user-centric web applications. With a strong foundation in both front-end and back-end technologies, I thrive on solving complex problems and delivering seamless digital experiences.  
+<table border="0">
+  <tr>
+    <td width="100%" valign="top">
+      I’m a passionate and results-driven <b>Full Stack Web Developer</b> with a knack for crafting elegant, scalable, and user-centric web applications. With a strong foundation in both front-end and back-end technologies, I thrive on solving complex problems and delivering seamless digital experiences.
+      <br /><br />
+      When I’m not coding, you’ll find me exploring the natural beauty of <b>Sri Lanka</b>, contributing to open-source projects, or diving into the latest tech trends. I believe in continuous learning and pushing the boundaries of what’s possible with technology.
+    </td>
+  </tr>
+</table>
 
-When I’m not coding, you’ll find me exploring the natural beauty of Sri Lanka, contributing to open-source projects, or diving into the latest tech trends. I believe in continuous learning and pushing the boundaries of what’s possible with technology.
-
----
-
-### 🚀 **My Projects**
-
-- **Founder of [Sithuwili](https://sithuwili.com)**  
-  A platform designed to empower individuals through knowledge sharing, community engagement, and innovative solutions.  
-
-- **Developer at [Skymansion](https://skymansion.site)**  
-  Building cutting-edge web applications that deliver exceptional user experiences and drive business growth.  
-
----
-
-### 🛠️ **Tech Stack**
-
-#### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### **Backend**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-#### **Database**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### **Hosting & Control Panels**
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cPanel&logoColor=white)
-![CyberPanel](https://img.shields.io/badge/CyberPanel-3DDC84?style=for-the-badge&logo=linux&logoColor=white)
-
-#### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📈 **GitHub Stats**
-![Rasanjana's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=rasanjanapiumal99&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rasanjanapiumal99&layout=compact&theme=radical)
+### 🚀 **Key Projects**
 
 
----
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Founder-Sithuwili-8A63D2?style=for-the-badge&logo=rocket" />
+    </td>
+    <td>
+      A platform designed to empower individuals through knowledge sharing, community engagement, and innovative solutions.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Lead_Dev-Skymansion-EE5396?style=for-the-badge&logo=codeforces" />
+    </td>
+    <td>
+      Building cutting-edge web applications that deliver exceptional user experiences and drive business growth.
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=EE5396&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Reality;Building+Scalable+Solutions;Open+for+Collaborations" alt="Typing SVG" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8a63d2&text=🛠️%20The%20Tech%20Arsenal&fontSize=40&animation=fadeIn" width="100%" />
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,php,nodejs,mysql,mongodb,git,github,vscode,linux,pnpm&theme=dark" />
+  </a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8a63d2&text=📈%20GitHub%20Analytics&fontSize=40&animation=fadeIn" width="100%" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=rasanjanapiumal99&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rasanjanapiumal99&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rasanjanapiumal99&theme=radical&hide_border=true" />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=8a63d2&text=🌟%20What%20I%20Bring%20to%20the%20Table&fontSize=35&fontAlign=50&fontAlignY=50&animation=fadeIn" width="100%" />
 </p>
@@ -128,10 +136,25 @@ When I’m not coding, you’ll find me exploring the natural beauty of Sri Lank
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=8A63D2&center=true&vCenter=true&width=435&lines=Available+for+Freelance;Let's+build+something+great!;Response+time:+Under+24h" alt="Typing SVG" />
 </p>
 
-### 💡 **Fun Fact**
-
-I believe that the best code is not just functional but also tells a story. Let’s create something amazing together!  
-
 ---
 
-**Thanks for visiting my profile! Let’s build the future of the web, one line of code at a time.** 🚀
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8a63d2&text=💡%20Fun%20Fact&fontSize=40&animation=twinkling" width="100%" />
+</p>
+
+<blockquote align="center">
+  <h3>"The best code is not just functional; it tells a story."</h3>
+  <p>Let’s build the future of the web, one line of code at a time. 🚀</p>
+</blockquote>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=EE5396&center=true&vCenter=true&width=600&lines=Let's+create+something+amazing+together!;Coding+with+passion+from+Sri+Lanka;Always+Open+to+New+Challenges" alt="Footer Typing SVG" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8a63d2&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile!</b> ❤️
+</p>
